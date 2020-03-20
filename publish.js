@@ -7,7 +7,7 @@ var newestUrls = [
     'http://www.mtzx3.xyz/'
 ];
 var otherUrls = [
-    'http://mitao666666.github.io/',
+    'https://mitao666666.github.io/mitao/index.html',
     'http://mitao666666.com/'
 ];
 var foreverUrls = [
