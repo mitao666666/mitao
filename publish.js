@@ -61,7 +61,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = '<div class="brand" id="logo" style="float:  right;/* padding-right: 200px; */"><span class="flag" style="margin-right: 100;">返回</span> </div>qisev <span>.top</span><span class="flag">蜜桃在线</span>'
+    logoElem.innerHTML = '<div class="brand" id="logo" style="float:  right;/* padding-right: 200px; */"><span class="flag" style="margin-right: 100;">返回</span> </div>mitao666666 <span>.com</span><span class="flag">蜜桃在线</span>'
     mainElem.appendChild(logoElem);
     // newest urls
     var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls});
