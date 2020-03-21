@@ -1,5 +1,5 @@
 var emails = [
-    'mitao666666@gmail.com'
+    'mitaozx@gmail.com'
 ];
 var newestUrls = [
     'http://www.mtzx1.xyz/',
